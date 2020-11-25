@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1 onPress={console.log("test")} >Favela Web Agency with git</h1>
+        <h1 onPress={console.log("test")} >Favela Web Agency with git test 2</h1>
         <h2>Surf the human side </h2>
         <a
           className="App-link"
